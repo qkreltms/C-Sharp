@@ -1,5 +1,7 @@
 ﻿using System;
-
+//this code for testing operator overloading ex: Vector3(1,2,3) + Vector3(1,2,3)
+//below is the ref for this code
+//https://www.tutorialspoint.com/csharp/csharp_operator_overloading.htm
 namespace ConsoleApp1
 {   
     class Vec3
@@ -26,7 +28,7 @@ namespace ConsoleApp1
         }
    
     }
-    class Program
+    class OperatorOverloading
     {
         static void Main(string[] args)
         {
