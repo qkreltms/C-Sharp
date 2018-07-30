@@ -1,3 +1,9 @@
+/*
+ara : 24
+ara2 : 25
+ara3 : 26
+계속하려면 아무 키나 누르십시오 . . .
+*/
 using System;
 using System.Linq;
 
