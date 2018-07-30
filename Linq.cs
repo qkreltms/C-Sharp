@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace linq
+namespace Linq
 {
     class Woman
     {
