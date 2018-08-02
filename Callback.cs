@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 
+//Action<>() 써보기
+
 namespace ConsoleApp2
 {
     
