@@ -23,11 +23,7 @@ namespace ConsoleApp2
             Del2 del2 = new Del2(c.Notify);
             del2("Happy");
             c.CallBack(del2);
-
-
             Console.ReadKey();
-
-
         }
 
         private delegate void Del2(string msg);
