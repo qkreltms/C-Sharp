@@ -55,7 +55,6 @@ namespace ConsoleApp4
         public class Model
         {
             public string test;
-
             public Model(string test)
             {
                 this.test = test;
